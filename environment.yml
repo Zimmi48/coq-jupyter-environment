@@ -1,0 +1,6 @@
+name: coq-jupyter-environment
+channels:
+  - conda-forge
+dependencies:
+  - coq
+  - coq-jupyter
