@@ -4,3 +4,4 @@ channels:
 dependencies:
   - coq
   - coq-jupyter
+  - jupyter_console
